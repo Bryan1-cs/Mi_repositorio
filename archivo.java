@@ -8,6 +8,10 @@ public class archivo{
 
         System.out.println("Hola "+ nombre+ "!");
         System.out.println("La suma de "+ a+ "mas "+ b+ "es "+ suma);
+
+        System.out.println("2025-2181U");
+         System.out.println("Brayan javier castro soza");
+
     }
 
     
