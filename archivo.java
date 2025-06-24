@@ -2,8 +2,8 @@ public class archivo{
 
     public static void main(String[] args) {
         String nombre=estudiante;
-        int a = 15;
-        int b;
+        int a = 18;
+        int b = 44;
         int suma = a+b;
 
         System.out.println("Hola "+ nombre+ "!");
